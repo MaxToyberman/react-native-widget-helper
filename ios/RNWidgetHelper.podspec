@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.homepage     = package['repository']['url']
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://isragit.isracard.co.il/GIT/react-native-today-widget.git", :tag => "master" }
-  s.source_files  = "RNWidgetHelper/**/*.{h,m}"
+  s.source_files  = "**/*.{h,m}"
   s.requires_arc = true
 
 
