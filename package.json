@@ -2,7 +2,7 @@
 {
   "name": "react-native-widget-helper",
   "version": "1.0.0",
-  "description": "",
+  "description": "RNWidgetHelper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,12 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Max Toyberman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://isragit.isracard.co.il/GIT/react-native-today-widget.git"
+  },
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
